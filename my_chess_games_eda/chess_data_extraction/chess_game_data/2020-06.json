@@ -1,0 +1,32 @@
+{
+    "games": [
+        {
+            "url": "https://www.chess.com/game/live/4986997754",
+            "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2020.06.11\"]\n[Round \"-\"]\n[White \"brengall99\"]\n[Black \"lehtuan\"]\n[Result \"1-0\"]\n[CurrentPosition \"3Qkb1r/p1p1p2p/1p2P1p1/1N3p1n/8/4BP2/PP4q1/3RK1Nb b Kk -\"]\n[Timezone \"UTC\"]\n[ECO \"D06\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Gambit\"]\n[UTCDate \"2020.06.11\"]\n[UTCTime \"19:26:10\"]\n[WhiteElo \"839\"]\n[BlackElo \"704\"]\n[TimeControl \"180\"]\n[Termination \"brengall99 won by checkmate\"]\n[StartTime \"19:26:10\"]\n[EndDate \"2020.06.11\"]\n[EndTime \"19:31:51\"]\n[Link \"https://www.chess.com/game/live/4986997754\"]\n\n1. d4 {[%clk 0:02:59.3]} 1... d5 {[%clk 0:02:58.9]} 2. c4 {[%clk 0:02:58.8]} 2... b6 {[%clk 0:02:56.7]} 3. e3 {[%clk 0:02:56.8]} 3... Nc6 {[%clk 0:02:55.7]} 4. Nc3 {[%clk 0:02:54.5]} 4... Ba6 {[%clk 0:02:55]} 5. cxd5 {[%clk 0:02:48.8]} 5... Bxf1 {[%clk 0:02:43.1]} 6. dxc6 {[%clk 0:02:44.7]} 6... Bxg2 {[%clk 0:02:39.7]} 7. Qb3 {[%clk 0:02:16.4]} 7... Bxh1 {[%clk 0:02:37.4]} 8. f3 {[%clk 0:02:02.3]} 8... Nf6 {[%clk 0:02:25.3]} 9. e4 {[%clk 0:01:55.9]} 9... g6 {[%clk 0:02:15.8]} 10. e5 {[%clk 0:01:50.6]} 10... Nh5 {[%clk 0:02:06.5]} 11. e6 {[%clk 0:01:47.1]} 11... f5 {[%clk 0:02:01.1]} 12. Bg5 {[%clk 0:01:16.4]} 12... Qxd4 {[%clk 0:01:56.2]} 13. Nce2 {[%clk 0:01:08.8]} 13... Qd6 {[%clk 0:01:26.1]} 14. Rd1 {[%clk 0:00:59.7]} 14... Qxc6 {[%clk 0:01:10.8]} 15. Nd4 {[%clk 0:00:58.7]} 15... Qd6 {[%clk 0:00:58.2]} 16. Nb5 {[%clk 0:00:49.7]} 16... Qe5+ {[%clk 0:00:50.1]} 17. Be3 {[%clk 0:00:39.8]} 17... Qxh2 {[%clk 0:00:40.1]} 18. Qd3 {[%clk 0:00:21.2]} 18... Qg2 {[%clk 0:00:35.1]} 19. Qd6 {[%clk 0:00:15.4]} 19... Rd8 {[%clk 0:00:17.5]} 20. Qxd8# {[%clk 0:00:12]} 1-0\n",
+            "time_control": "180",
+            "end_time": 1591903911,
+            "rated": true,
+            "tcn": "lBZJkAXPmu5Qbs6OAJOfJQfodrohnv!TuC2UCKTNKS1LcM7BsmBRadRQmBQRBHRKMuKprtpotR47R7",
+            "uuid": "5ef3b0f9-ac19-11ea-8251-eb3d40010001",
+            "initial_setup": "",
+            "fen": "3Qkb1r/p1p1p2p/1p2P1p1/1N3p1n/8/4BP2/PP4q1/3RK1Nb b Kk -",
+            "time_class": "blitz",
+            "rules": "chess",
+            "white": {
+                "rating": 839,
+                "result": "win",
+                "@id": "https://api.chess.com/pub/player/brengall99",
+                "username": "brengall99",
+                "uuid": "22848054-ddef-11e7-802c-000000000000"
+            },
+            "black": {
+                "rating": 704,
+                "result": "checkmated",
+                "@id": "https://api.chess.com/pub/player/lehtuan",
+                "username": "lehtuan",
+                "uuid": "5f77128c-ab66-11ea-831f-535c21ba2077"
+            },
+            "eco": "https://www.chess.com/openings/Queens-Gambit"
+        }
+    ]
+}
