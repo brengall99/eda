@@ -1,6 +1,6 @@
 # EDA file
 
-This repository contains my Exploratory Data Analysis (EDA) work as part of my learning journey in data analysis and Python. The aim is to understand data patterns, uncover insights, and practice EDA techniques.
+This repository contains my Exploratory Data Analysis (EDA) work as part of my learning journey in data analysis and Python. The aim is to understand data patterns, uncover insights, and practice EDA techniques.<br>
 <br>
 
 ***data_science_salary_eda***
@@ -15,6 +15,6 @@ This repository contains my Exploratory Data Analysis (EDA) work as part of my l
 - This is an exploration into my personal chess games since 2017, rating over time etc.
 <br>
 
-***netflix_eda***
+<h4>**netflix_eda**</h4>
 - This is some rudimentary analysis on netflix shows and movies added to the site over time, countries they were made in, when they were added, ratings, duration etc.
 <br>
