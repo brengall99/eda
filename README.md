@@ -5,7 +5,6 @@ This repository contains my Exploratory Data Analysis (EDA) work as part of my l
 ***data_science_salary_eda***
 - This is an exploration into data related salaries for 2024 for a variety of countries, jobs, and skill levels.
 
-<br/><br/>
 
 ***gdp_growth_eu_countries_eda***
 - This is an exploration into the gdp trends, year over year growth, and years with major gdp drops between 1960 and 2023 for 18 european countries, with emphasis on some of the major economies, such as those of Germany, France, The UK, Italy, and Spain.
